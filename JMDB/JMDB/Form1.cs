@@ -37,12 +37,9 @@ namespace JMDB
 
         }
 
-        private void btnSubmit_Click(object sender, KeyEventArgs e) //This is the submit button
+        private void btnSubmit_Click(object sender, EventArgs e) //This is the submit button
         {
-            if (e.KeyCode == Keys.Return)
-            {
-                MessageBox.Show("Film: " + textBox1.Text + "\n" + "Genre: " + textBox2.Text + "\n" + "Year: " + textBox3.Text);
-            }
+            MessageBox.Show("Film: " + textBox1.Text + "\n" + "Genre: " + textBox2.Text + "\n" + "Year: " + textBox3.Text);
         }
 
     }
