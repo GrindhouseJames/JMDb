@@ -1,0 +1,10 @@
+C:\Users\james\Documents\Visual Studio 2019\Projects\JMDB\JMDB\obj\Debug\JMDB.csprojAssemblyReference.cache
+C:\Users\james\Documents\Visual Studio 2019\Projects\JMDB\JMDB\obj\Debug\JMDB.Properties.Resources.resources
+C:\Users\james\Documents\Visual Studio 2019\Projects\JMDB\JMDB\obj\Debug\JMDB.csproj.GenerateResource.cache
+C:\Users\james\Documents\Visual Studio 2019\Projects\JMDB\JMDB\obj\Debug\JMDB.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\Visual Studio 2019\Projects\JMDB\JMDB\bin\Debug\JMDB.exe.config
+C:\Users\james\Documents\Visual Studio 2019\Projects\JMDB\JMDB\bin\Debug\JMDB.exe
+C:\Users\james\Documents\Visual Studio 2019\Projects\JMDB\JMDB\bin\Debug\JMDB.pdb
+C:\Users\james\Documents\Visual Studio 2019\Projects\JMDB\JMDB\obj\Debug\JMDB.Form1.resources
+C:\Users\james\Documents\Visual Studio 2019\Projects\JMDB\JMDB\obj\Debug\JMDB.exe
+C:\Users\james\Documents\Visual Studio 2019\Projects\JMDB\JMDB\obj\Debug\JMDB.pdb
